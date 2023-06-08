@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+G:\games\microsoft\diplom3\diplom3\MyForm.h(309,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\games\microsoft\diplom3\diplom3\MyForm.h(315,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  diplom3.vcxproj -> G:\games\microsoft\diplom3\x64\Debug\diplom3.exe
